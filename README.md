@@ -75,9 +75,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff"/>
  
 
-#
- 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDandersonm&count_private=true&theme=buefy&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDandersonm&layout=compact&theme=vue)
 
 
