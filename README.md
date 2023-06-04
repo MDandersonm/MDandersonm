@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm IDEA&logoColor=ffffff"/> 
 
  <br>
-
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/GitHub-a3a3a3?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 <img src="https://img.shields.io/badge/GitHubDesktop-662a81?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=181717"/>
