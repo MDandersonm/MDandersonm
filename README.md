@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
  <!-- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ffffff"/> -->
  <!-- <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/> -->
- <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
+  <!-- <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/> -->
  <br>
  
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffffff"/>
