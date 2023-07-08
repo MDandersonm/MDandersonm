@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
  <br>
 <img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/JSP/Servlet-ff9e0f?style=for-the-badge&logo=JSP/Servlet&logoColor=ffffff"/>
+<!-- <img src="https://img.shields.io/badge/JSP/Servlet-ff9e0f?style=for-the-badge&logo=JSP/Servlet&logoColor=ffffff"/> -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-f4d159?style=for-the-badge&logo=Spring Boot&logoColor=181717"/>
 <img src="https://img.shields.io/badge/JPA-9916ec?style=for-the-badge&logo=JPA&logoColor=ffffff"/>
