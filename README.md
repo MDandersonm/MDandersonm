@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-f4d159?style=for-the-badge&logo=Spring Boot&logoColor=181717"/>
 <img src="https://img.shields.io/badge/JPA-9916ec?style=for-the-badge&logo=JPA&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=ffffff"/>
+<!-- <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=ffffff"/> -->
  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=ffffff"/>
  
  <br>
