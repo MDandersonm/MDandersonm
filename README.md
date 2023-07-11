@@ -73,7 +73,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=for-the-badge&logo=Eclipse IDE&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm IDEA&logoColor=ffffff"/> 
+<!--<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm IDEA&logoColor=ffffff"/>  -->
 
  <br>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=ffffff"/>
