@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br/> 
  
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Flutter-#02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff"/>
  <!-- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ffffff"/> -->
  <!-- <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/> -->
   <!-- <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/> -->
