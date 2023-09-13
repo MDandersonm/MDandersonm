@@ -69,6 +69,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Amazon AWS-ff4f8b?style=for-the-badge&logo=Amazon AWS&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Amazon EC2-ff9900?style=for-the-badge&logo=Amazon EC2&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=ffffff"/>
  
  <br>
   <!--<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>-->
