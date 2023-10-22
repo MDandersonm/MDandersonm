@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/> 
+ <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=ffffff"/>
  
 
  <br>
